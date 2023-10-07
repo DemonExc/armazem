@@ -166,21 +166,21 @@
   location: "smile.png"
 - name: aqua
   strings:
-    - "aqua"
+    - ":aqua:"
   location: "aqua.png"
 - name: magma
   strings:
-    - "magma"
+    - ":magma:"
   location: "magma.png"
 - name: rocket
   strings:
-    - "rocket"
+    - ":rocket:"
   location: "rocket.png"
 - name: ccn
   strings:
-    - "ccn"
+    - ":ccn:"
   location: "ccn.png"
 - name: star
   strings:
-    - "star"
+    - ":star:"
   location: "star.png"
