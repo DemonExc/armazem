@@ -175,7 +175,7 @@
 - name: rocket
   strings:
     - ":rocket:"
-  location: "rockett.png"
+  location: "rocket.png"
 - name: ccn
   strings:
     - ":ccn:"
