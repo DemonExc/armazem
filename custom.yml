@@ -184,3 +184,11 @@
   strings:
     - ":star:"
   location: "star.png"
+- name: macaco
+  strings:
+    - ":macaco:"
+  location: "macaco.png"
+- name: mtimido
+  strings:
+    - ":mtimido:"
+  location: "mtimido.png"
