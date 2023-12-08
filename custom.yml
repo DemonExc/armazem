@@ -192,3 +192,15 @@
   strings:
     - ":mtimido:"
   location: "mtimido.png"
+  - name: plasma
+  strings:
+    - ":plasma:"
+  location: "plasma.png"
+- name: skull
+  strings:
+    - ":skull:"
+  location: "skull.png"
+- name: flare
+  strings:
+    - ":flare:"
+  location: "flare.png"
