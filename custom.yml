@@ -192,7 +192,7 @@
   strings:
     - ":mtimido:"
   location: "mtimido.png"
-  - name: plasma
+- name: plasma
   strings:
     - ":plasma:"
   location: "plasma.png"
