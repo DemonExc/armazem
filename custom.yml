@@ -204,3 +204,7 @@
   strings:
     - ":flare:"
   location: "flare.png"
+- name: joia
+  strings:
+    - ":joia:"
+  location: "joia.png"
