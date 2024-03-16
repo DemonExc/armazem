@@ -204,4 +204,7 @@
   strings:
     - ":flare:"
   location: "flare.png"
-  
+  - name: crazy
+  strings:
+    - ":crazy:"
+  location: "crazy.png"
